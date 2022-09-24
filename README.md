@@ -1,4 +1,4 @@
-#Webpage Solis
+### Webpage Solis
 
 The dark/light themes are implemented based on your browser settings.
 
