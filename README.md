@@ -2,4 +2,4 @@
 
 The dark/light themes are implemented based on your browser settings.
 
-Pages: Beetroot-Academy-home-work
+Pages: https://isaacazimovua.github.io/Beetroot-Academy-home-work/
